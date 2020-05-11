@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=void\ createNewDatabase(java.lang.String)
+comment1.params=fileName
+comment1.target=void\ createNewTable(java.lang.String)
+comment2.params=fileName\ ID
+comment2.target=void\ csvProcess(java.lang.String,\ long)
+comment3.params=fileName\ data
+comment3.target=void\ databaseWriter(java.lang.String,\ java.lang.String[])
+comment4.params=fileName
+comment4.target=void\ selectAll(java.lang.String)
+comment5.params=fileName\ data
+comment5.target=void\ csvWriter(java.lang.String,\ java.lang.String[])
+comment6.params=fileName\ count\ valid\ invalid
+comment6.target=void\ logWriter(java.lang.String,\ int,\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
