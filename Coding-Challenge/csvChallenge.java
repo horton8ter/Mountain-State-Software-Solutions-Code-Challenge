@@ -95,7 +95,7 @@
                         }
                     }
                 }
-                logWriter(fileName+":"+ID,total,good,bad);
+                logWriter(fileName+"-"+ID,total,good,bad);
                 csvReader.close();
         }
         
