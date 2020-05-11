@@ -4,4 +4,4 @@ The sqlite file contains the sqlite jar and the input file, the bad csv output a
 
 Coding challenge contains the program files as well as another readme detailing method functions.
 
-Thee sqlite and sqlite/db files contain a few couple of output examples. Timetamp appended to output filenames to allow repeated runs without combining or overwriting output files
+The sqlite and sqlite/db files contain a few couple of output examples. Timetamp appended to output filenames to allow repeated runs without combining or overwriting output files.
