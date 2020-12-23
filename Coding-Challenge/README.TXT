@@ -18,13 +18,6 @@ open bluej. In Tools>>Preferences select library then add C:\sqlite\java\connect
 AUTHORS: Paul Edwards
 
 
-USER INSTRUCTIONS:
-
-Open the Coding-Challenge project in bluej.
-
-Right click on the csvChallenge class and click on void main(String[] args)
-
-
 Methods of csvChallenge
 
 [createNewTable]
