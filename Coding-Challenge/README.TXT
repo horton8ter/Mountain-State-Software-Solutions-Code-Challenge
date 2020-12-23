@@ -11,8 +11,6 @@ PURPOSE OF PROJECT: Process Csv File input into a database with 10 columns, disc
 
  
 VERSION or DATE: 5/10/2020
-HOW TO START THIS PROJECT: place the sqlite folder in c:/ directory.
-open bluej. In Tools>>Preferences select library then add C:\sqlite\java\connect\sqlite-jdbc-3.30.1.jar
 
 
 AUTHORS: Paul Edwards
